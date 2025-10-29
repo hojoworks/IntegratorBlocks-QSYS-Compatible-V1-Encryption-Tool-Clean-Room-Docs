@@ -1,0 +1,2 @@
+﻿plugin_tool.exe version
+plugin_tool.exe encrypt [input_file] [output_file]
