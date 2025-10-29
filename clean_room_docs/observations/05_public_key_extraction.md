@@ -1,7 +1,9 @@
 # Public Key Extraction Strategy
 
 **Date:** October 28, 2025
+
 **Observer:** AF
+
 **Method:** Non-invasive string scanning and resource extraction
 
 ## Objective

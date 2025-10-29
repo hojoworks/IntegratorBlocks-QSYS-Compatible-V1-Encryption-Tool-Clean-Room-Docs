@@ -1,9 +1,13 @@
 # File Format Analysis (.qplugx)
 
 **Date:** October 28, 2025
-**Observer:** AF  
+
+**Observer:** AF 
+
 **Analysis Type:** Black-box behavioral observation
+
 **Input File:** ExamplePlugin.qplug (28,368 bytes)
+
 **Output File:** ExamplePlugin.qplugx (37,368 bytes)
 
 ## Overview

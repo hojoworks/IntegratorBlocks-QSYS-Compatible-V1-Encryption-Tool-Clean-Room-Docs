@@ -1,7 +1,9 @@
 # Public Key Extraction - Results
 
 **Date:** October 28, 2025
+
 **Observer:** AF
+
 **Method Used:** String Scanning
 
 ## Extraction Summary
